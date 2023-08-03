@@ -136,7 +136,9 @@ hr {
   overflow: visible;
 }
 pre {
-  font-family: monospace, monospace;
+  /* font-family: monospace, monospace; */
+  font-family: 'DM Sans', sans-serif;
+
 }
 a {
   background-color: transparent;
@@ -154,7 +156,9 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  /* font-family: monospace, monospace; */
+  font-family: 'DM Sans', sans-serif;
+
   font-size: 1em;
 }
 small {
@@ -286,7 +290,9 @@ h6 {
   color: #fff;
   font-weight: 700;
   line-height: 1.2;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -335,17 +341,23 @@ span {
 }
 blockquote cite {
   font-style: normal;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
 }
 pre {
-  font-family: "Courier 10 Pitch", Courier, monospace;
+  /* font-family: "Courier 10 Pitch", Courier, monospace; */
+  font-family: 'DM Sans', sans-serif;
+
   overflow: auto;
 }
 code,
 kbd,
 tt,
 var {
-  font-family: Menlo, monaco, Consolas, Lucida Console, monospace;
+  /* font-family: Menlo, monaco, Consolas, Lucida Console, monospace; */
+  font-family: 'DM Sans', sans-serif;
+
 }
 abbr,
 acronym {
@@ -376,7 +388,9 @@ body {
   background-color: #000;
   line-height: 1.2;
   color: rgba(255, 255, 255, 0.69);
-  font-family: "Karla";
+  /* font-family: "Karla"; */
+  font-family: 'DM Sans', sans-serif;
+
   font-weight: 500;
   margin: 0;
   text-rendering: optimizeLegibility;
@@ -511,7 +525,9 @@ body.v-light:not(.no-light) {
   font-size: 90px;
   font-weight: 100;
   color: #a56433;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
 }
 .v-light:not(.no-light) .section-title span {
   color: #d90a2c;
@@ -1197,7 +1213,9 @@ a.link-hover {
   display: inline-block;
   letter-spacing: 2px;
   font-size: 13px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   font-weight: 400;
   position: relative;
   text-transform: uppercase;
@@ -1245,7 +1263,9 @@ a.link-hover:hover {
   color: #fff;
   text-transform: uppercase;
   padding-bottom: 3px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
 }
 .link-vist .link-vist-text:before {
   content: "";
@@ -1496,7 +1516,9 @@ a.link-hover:hover {
 .title {
   position: relative;
   color: #fff;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   font-size: 65px;
   font-weight: 700;
   line-height: 1;
@@ -1997,7 +2019,9 @@ input[type="search"]::-webkit-search-decoration {
   padding: 20px 40px;
   text-transform: uppercase;
   word-spacing: 5px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   text-align: center;
 }
 @media only screen and (max-width: 991px) {
@@ -2205,7 +2229,9 @@ a:hover {
   text-decoration: none;
 }
 .font-heading {
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
 }
 .text-transform-upper {
   text-transform: uppercase;
@@ -2494,7 +2520,9 @@ a:hover {
   display: inline-block;
   letter-spacing: 2px;
   font-size: 13px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   font-weight: 400;
   position: relative;
 }
@@ -3810,7 +3838,10 @@ a:hover {
 .title-cover {
   position: absolute;
   width: 100%;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+
+  font-family: 'DM Sans', sans-serif;
+
   font-size: 10vw;
   font-weight: 600;
   text-align: center;
@@ -4125,7 +4156,9 @@ a:hover {
 .service .services-item span {
   font-size: 55px;
   font-weight: 100;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   line-height: 95px;
   height: 60px;
   overflow: hidden;
@@ -4530,7 +4563,9 @@ a:hover {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   right: 20px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   font-size: 14px;
   font-weight: bold;
   color: #fff;
@@ -4625,7 +4660,9 @@ a:hover {
   font-weight: 500;
   text-transform: uppercase;
   margin-bottom: 10px;
-  font-family: "Karla";
+  /* font-family: "Karla"; */
+  font-family: 'DM Sans', sans-serif;
+
   opacity: 0.9;
 }
 .v-light:not(.no-light) .our-work .work-item .item-info .cat {
@@ -5369,7 +5406,9 @@ a:hover {
   .testimonials-item
   .top-box
   .p-larg {
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
 }
 .testimonials-2.testimonials-3.testimonials-new
   .testimonials-inner
@@ -5832,12 +5871,16 @@ a:hover {
   padding-top: 80%;
 }
 .fact-number .fact-number-inner .fact-number-item span {
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   color: #fff;
 }
 .fact-number .fact-number-inner .fact-number-item .fact-num {
   font-size: 160px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   letter-spacing: 0.05vw;
 }
 .fact-number .fact-number-inner .fact-number-item .fact-num-title {
@@ -6421,7 +6464,9 @@ a:hover {
   padding-left: 10px;
 }
 .box-gallery-vertical h6 {
-  font-family: "Karla";
+  /* font-family: "Karla"; */
+  font-family: 'DM Sans', sans-serif;
+
   margin-bottom: 20px;
   line-height: 1.6;
 }
@@ -8049,7 +8094,9 @@ header .header-master.header-half .social-network-box {
   width: 28px;
 }
 .work-inner .filterings span {
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 1.5px;
@@ -8149,7 +8196,9 @@ header .header-master.header-half .social-network-box {
   font-weight: 500;
   text-transform: uppercase;
   margin-bottom: 10px;
-  font-family: "Karla";
+  /* font-family: "Karla"; */
+  font-family: 'DM Sans', sans-serif;
+
   opacity: 0.9;
 }
 .v-light:not(.no-light) .work-inner .work-item .item-info .cat {
@@ -8454,7 +8503,9 @@ header .header-master.header-half .social-network-box {
   font-size: 24px;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
 }
 .filters-content .filtering button.active {
   color: #a56433;
@@ -8981,7 +9032,9 @@ header .header-master.header-half .social-network-box {
 }
 .entry input,
 .entry textarea {
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   font-weight: bold;
   font-size: 16px;
   width: 100%;
@@ -9394,7 +9447,9 @@ label {
   letter-spacing: 2px;
   line-height: 1.6;
   font-size: 13px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   position: relative;
   text-transform: capitalize;
 }
@@ -9549,7 +9604,9 @@ label {
   display: inline-block;
   letter-spacing: 2px;
   font-size: 13px;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+  font-family: 'DM Sans', sans-serif;
+
   font-weight: 400;
   position: relative;
 }
