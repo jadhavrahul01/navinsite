@@ -824,29 +824,23 @@ body.v-light:not(.no-light) {
 
 
 .new-box{
-  height: 600px;
+  height: 700px!important;
+  background-color: rgb(101, 54, 229);
   /* width: 800px!important; */
-  max-width: 14000px !important;
+  max-width: 16000px !important;
+  position: relative;
 }
-.container {
-  max-width: 1350px!important;
+.container1 {
+  max-width: 1550px!important;
 }
 
 .our-values-body{
   display: flex;
+ 
     flex-wrap: wrap;
     margin: 50px;
 }
-.new-box::before{
-  content: "";
-  background: #bbfa00;
-  position: absolute;
-  right: 100%;
-  width: 100%;
-  top: 0;
-  bottom: 0;
 
-}
 .our-values-head{
   margin: 70px ;
 }
@@ -890,6 +884,9 @@ body.v-light:not(.no-light) {
     padding: 0 15px;
 
     max-width: 100%;
+  }
+  .new-box {
+    height: 1097px!important;
   }
 }
 
