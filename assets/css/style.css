@@ -1034,6 +1034,32 @@ body.v-light:not(.no-light) {
 
 
 
+@media only screen and (max-width: 1600px) {
+
+  .card {
+    width:400px;
+    height:400px;
+  }
+  
+}
+@media only screen and (max-width: 767px) {
+
+  .card {
+    width:250px;
+    height:250px;
+  }
+  #carousel-content {
+    transform: translateY(118px);
+  }
+.rowc1{
+  height: 50%!important;
+}
+  .rowhome{
+    display: flex!important;
+    justify-content: space-between;
+  }
+  
+}
 
 
 
