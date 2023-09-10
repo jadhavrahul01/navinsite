@@ -162,7 +162,7 @@ const carouselContainer = document.getElementById('carousel-content')
 //const prev = document.getElementById('prev')
 //const next = document.getElementById('next')
 
-const carousel = new Carousel(carouselContainer, true, 5000, true) // container, autoplay, speed, dots
+const carousel = new Carousel(carouselContainer, true, 3000, true) // container, autoplay, speed, dots
 carousel.init()
 
 // UNCOMMENT IF YOU WANT TO USE BUTTONS
