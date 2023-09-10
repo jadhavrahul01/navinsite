@@ -972,6 +972,8 @@ body.v-light:not(.no-light) {
   transform: translateX(-30%) scale(0.85);  
   opacity: 1 !important;
   z-index: 0;
+  filter: blur(4px);
+  
  }
 
 .selected {
@@ -989,6 +991,7 @@ body.v-light:not(.no-light) {
   transform: translateX(30%) scale(0.85);  
   opacity: 1 !important;
   z-index: 0;
+  filter: blur(4px);
 }
 
 .dot {
