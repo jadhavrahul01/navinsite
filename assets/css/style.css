@@ -948,8 +948,9 @@ body.v-light:not(.no-light) {
 }
 
 .card {
-	width:410px;
-	height:410px;
+	width:460px;
+	height:450px;
+
 	background-color:white;
 	margin:0 1em;
 	display:flex;
