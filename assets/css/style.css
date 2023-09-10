@@ -107,7 +107,7 @@
   color: #0077b5;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Sans:opsz@9..40&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 * {
@@ -136,7 +136,7 @@ hr {
 }
 pre {
   /* font-family: monospace, monospace; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 }
 a {
   background-color: transparent;
@@ -155,7 +155,7 @@ code,
 kbd,
 samp {
   /* font-family: monospace, monospace; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-size: 1em;
 }
@@ -289,7 +289,7 @@ h6 {
   font-weight: 700;
   line-height: 1.2;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -340,11 +340,11 @@ span {
 blockquote cite {
   font-style: normal;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 }
 pre {
   /* font-family: "Courier 10 Pitch", Courier, monospace; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   overflow: auto;
 }
@@ -353,7 +353,7 @@ kbd,
 tt,
 var {
   /* font-family: Menlo, monaco, Consolas, Lucida Console, monospace; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 }
 abbr,
 acronym {
@@ -385,7 +385,7 @@ body {
   line-height: 1.2;
   color: rgba(255, 255, 255, 0.69);
   /* font-family: "Karla"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-weight: 500;
   margin: 0;
@@ -522,7 +522,7 @@ body.v-light:not(.no-light) {
   font-weight: 100;
   color: #a56433;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 }
 .v-light:not(.no-light) .section-title span {
   color: #d90a2c;
@@ -1452,7 +1452,7 @@ a.link-hover {
   letter-spacing: 2px;
   font-size: 13px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-weight: 400;
   position: relative;
@@ -1502,7 +1502,7 @@ a.link-hover:hover {
   text-transform: uppercase;
   padding-bottom: 3px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 }
 .link-vist .link-vist-text:before {
   content: "";
@@ -1754,7 +1754,7 @@ a.link-hover:hover {
   position: relative;
   color: #fff;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-size: 65px;
   font-weight: 700;
@@ -2257,7 +2257,7 @@ input[type="search"]::-webkit-search-decoration {
   text-transform: uppercase;
   word-spacing: 5px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   text-align: center;
 }
@@ -2467,7 +2467,7 @@ a:hover {
 }
 .font-heading {
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 }
 .text-transform-upper {
   text-transform: uppercase;
@@ -2757,7 +2757,7 @@ a:hover {
   letter-spacing: 2px;
   font-size: 13px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-weight: 400;
   position: relative;
@@ -4076,7 +4076,7 @@ a:hover {
   width: 100%;
   /* font-family: "Roboto"; */
 
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-size: 10vw;
   font-weight: 600;
@@ -4393,7 +4393,7 @@ a:hover {
   font-size: 55px;
   font-weight: 100;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   line-height: 95px;
   height: 60px;
@@ -4800,7 +4800,7 @@ a:hover {
   transform: translateY(-50%);
   right: 20px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-size: 14px;
   font-weight: bold;
@@ -4897,7 +4897,7 @@ a:hover {
   text-transform: uppercase;
   margin-bottom: 10px;
   /* font-family: "Karla"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   opacity: 0.9;
 }
@@ -5643,7 +5643,7 @@ a:hover {
   .top-box
   .p-larg {
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 }
 .testimonials-2.testimonials-3.testimonials-new
   .testimonials-inner
@@ -6107,14 +6107,14 @@ a:hover {
 }
 .fact-number .fact-number-inner .fact-number-item span {
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   color: #fff;
 }
 .fact-number .fact-number-inner .fact-number-item .fact-num {
   font-size: 160px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   letter-spacing: 0.05vw;
 }
@@ -6700,7 +6700,7 @@ a:hover {
 }
 .box-gallery-vertical h6 {
   /* font-family: "Karla"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   margin-bottom: 20px;
   line-height: 1.6;
@@ -8330,7 +8330,7 @@ header .header-master.header-half .social-network-box {
 }
 .work-inner .filterings span {
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-size: 14px;
   font-weight: 600;
@@ -8432,7 +8432,7 @@ header .header-master.header-half .social-network-box {
   text-transform: uppercase;
   margin-bottom: 10px;
   /* font-family: "Karla"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   opacity: 0.9;
 }
@@ -8739,7 +8739,7 @@ header .header-master.header-half .social-network-box {
   text-transform: uppercase;
   letter-spacing: 2px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 }
 .filters-content .filtering button.active {
   color: #a56433;
@@ -9267,7 +9267,7 @@ header .header-master.header-half .social-network-box {
 .entry input,
 .entry textarea {
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-weight: bold;
   font-size: 16px;
@@ -9682,7 +9682,7 @@ label {
   line-height: 1.6;
   font-size: 13px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   position: relative;
   text-transform: capitalize;
@@ -9839,7 +9839,7 @@ label {
   letter-spacing: 2px;
   font-size: 13px;
   /* font-family: "Roboto"; */
-  font-family: "Bitter", serif;
+  font-family: "Raleway", sans-serif;
 
   font-weight: 400;
   position: relative;
