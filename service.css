@@ -10,6 +10,10 @@
      min-height: 100vh;
      background: #222;
  } */
+ body{
+    background-color: #212529;
+    color: #ced4da;
+ }
  .CONTAINER{
      position: relative;
      display: flex;
