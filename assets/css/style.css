@@ -74,13 +74,13 @@
   transform: translate(0, -50%);
 }
 .background-main {
-  background-color: #000;
+  background-color: #212529;
 }
 .v-light:not(.no-light) .background-main {
   background-color: #f9f9f9;
 }
 .background-section {
-  background-color: #090909;
+  background-color: #212529;
 }
 .v-light:not(.no-light) .background-section {
   background-color: #e6e6e6;
@@ -127,6 +127,7 @@ html {
 }
 body {
   margin: 0;
+  background-color: #212529!important;
 }
 hr {
   -webkit-box-sizing: content-box;
@@ -535,7 +536,7 @@ body.v-light:not(.no-light) {
 }
 .section-title h2 {
   position: relative;
-  background-color: #000;
+  background-color: #212529;
   font-size: 42px;
   font-weight: 700;
   letter-spacing: 2px;
